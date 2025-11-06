@@ -44,11 +44,11 @@ A verified arbitrage transaction on Solana demonstrates the profit potential:
   Your browser does not support the video tag.
 </video>
 
-**Download:** [`arbitrage_bot.mp4`](./assets/arbitrage_bot.mp4)
+**Download:** [arbitrage_bot.mp4](https://github.com/z3roai/solana-arbitrage-bot/raw/main/assets/arbitrage_bot.mp4)
 
 ### Presentation
 
-[Download Presentation Deck](./assets/showcase.pptx) | [`showcase.pptx`](./assets/showcase.pptx)
+[Download Presentation Deck](https://github.com/z3roai/solana-arbitrage-bot/raw/main/assets/showcase.pptx) | [showcase.pptx](https://github.com/z3roai/solana-arbitrage-bot/raw/main/assets/showcase.pptx)
 
 ### Screenshot
 
